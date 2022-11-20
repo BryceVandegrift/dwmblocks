@@ -2,7 +2,7 @@
 
 Modular status bar for dwm written in c.
 
-dwmblocks with a patch to add [clickable blocks](https://gist.github.com/IGeraGera/e4a5583b91b3eec2e81fdceb44dea717),
+dwmblocks with a patch to add [clickable blocks](https://dwm.suckless.org/patches/statuscmd/dwmblocks-statuscmd-20210402-96cbb45.diff),
 and configured to use my custom status bar scripts.
 
 ## Install
