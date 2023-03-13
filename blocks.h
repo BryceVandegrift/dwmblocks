@@ -3,7 +3,7 @@ static const Block blocks[] = {
 	/*Icon*/	/*Command*/		/*Update Interval*/	/*Update Signal*/
 	{" XMR=$", "sb-crypto",				3600,		5},
 
-	{"❭ ", "uname -sr",				0,		4},
+	{"🐧 ", "uname -sr",				0,		4},
 
 	{"🔊 ","sb-vol",				10,		3},
 
